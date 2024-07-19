@@ -2,32 +2,23 @@
 ### This is a project for Front-End Technologies May 2024 Course @ SoftUni
 ---
 ## Table of Contents
-1. [Welcome to HTML](#1-welcome-to-html)
-2. [Fruits](#2-fruits)
-3. [Wiki Page](#3-wiki-page)
-4. [To Do List](#4-to-do-list)
-5. [Navigation Bar](#5-navigation-bar)
-6. [Page Content](#6-page-content)
-7. [Semantic Blog Layout](#7-semantic-blog-layout)
-8. [Restaurant Menu](#8-restaurant-menu)
-9. [Style Lists](#9-style-lists)
-10. [Styling Tables](#10-styling-tables)
-11. [Buttons CSS](#11-buttons-css)
-12. [Font Awesome Icons](#12-font-awesome-icons)
-13. [Icon Font Buttons](#13-icon-font-buttons)
-14. [Contributing](#Contributing)
-15. [License](#License)
-16. [Contact](#Contact)
+1. [Fruits](#2-fruits)
+2. [Wiki Page](#3-wiki-page)
+3. [To Do List](#4-to-do-list)
+4. [Navigation Bar](#5-navigation-bar)
+5. [Page Content](#6-page-content)
+6. [Semantic Blog Layout](#7-semantic-blog-layout)
+7. [Restaurant Menu](#8-restaurant-menu)
+8. [Style Lists](#9-style-lists)
+9. [Styling Tables](#10-styling-tables)
+10. [Buttons CSS](#11-buttons-css)
+11. [Font Awesome Icons](#12-font-awesome-icons)
+12. [Icon Font Buttons](#13-icon-font-buttons)
+13. [Contributing](#Contributing)
+14. [License](#License)
+15. [Contact](#Contact)
 
-## 1. Welcome to HTML
-Create `welcome.html` using texts from `site-texts.txt`.
-
-### Requirements
-- **Title**: Welcome
-- `<strong>` for bold text
-- `<p>` for paragraphs
-
-## 2. Fruits
+## 1. Fruits
 Create `fruits.html`.
 
 ### Requirements
@@ -36,7 +27,7 @@ Create `fruits.html`.
 - `<img>` for images
 - **Hint**: 3 paragraphs, 5 images each
 
-## 3. Wiki Page
+## 2. Wiki Page
 Create `wiki-page.html` using texts from `site-texts.txt`.
 
 ### Requirements
@@ -45,7 +36,7 @@ Create `wiki-page.html` using texts from `site-texts.txt`.
 - Hyperlink: [Wikipedia](https://en.wikipedia.org/wiki/Brown_bear)
 - Paragraphs, ordered and unordered lists, and an image `bear.jpg`
 
-## 4. To Do List
+## 3. To Do List
 Create `to-do-list.html` and `to-do-list.css`.
 
 ### Requirements
@@ -57,7 +48,7 @@ Create `to-do-list.html` and `to-do-list.css`.
   - Box-shadow: 0 0 10px 2px #333
 - Center the container, use `<h1>`, `<p>`, and `<ol>`
 
-## 5. Navigation Bar
+## 4. Navigation Bar
 Create `nav-bar.html` and `nav-bar.css`.
 
 ### Requirements
@@ -70,7 +61,7 @@ Create `nav-bar.html` and `nav-bar.css`.
   - Text size: 24px
   - Text color: #ffffff
 
-## 6. Page Content
+## 5. Page Content
 Create `page-content.html` and `page-content.css`.
 
 ### Requirements
@@ -79,7 +70,7 @@ Create `page-content.html` and `page-content.css`.
   - Background colors: #f2f4c0, #e4e978, #4c7658
   - Border: 1px solid #b2ad7d
 
-## 7. Semantic Blog Layout
+## 6. Semantic Blog Layout
 Create `index.html` and `styles.css`.
 
 ### Requirements
@@ -90,14 +81,14 @@ Create `index.html` and `styles.css`.
 ### CSS Styling
 - Style for header, nav, sections, articles, and footer
 
-## 8. Restaurant Menu
+## 7. Restaurant Menu
 Create a web page with `<article>`, `<h1>`, `<span>`, and `<p>`.
 
 ### CSS Requirements
 - Centered text
 - Font styles for `<h1>`, `<span>`, and `<p>`
 
-## 9. Style Lists
+## 8. Style Lists
 Create a page with a skeleton HTML and empty CSS file.
 
 ### CSS Requirements
@@ -105,7 +96,7 @@ Create a page with a skeleton HTML and empty CSS file.
 - `<h2>`: Styled with underline, background: #3B516B
 - `<li>`: Left margin 20px
 
-## 10. Styling Tables
+## 9. Styling Tables
 Create a page with a skeleton HTML and empty CSS file.
 
 ### CSS Requirements
@@ -113,7 +104,7 @@ Create a page with a skeleton HTML and empty CSS file.
 - `<th>`: Background color lightblue
 - `<th>`, `<td>`: Width 144px, Height 32px, Border: 1px solid #ccc
 
-## 11. Buttons CSS
+## 10. Buttons CSS
 Create `index.html` with title "Buttons CSS".
 
 ### Requirements
@@ -121,14 +112,14 @@ Create `index.html` with title "Buttons CSS".
 - Colors: green, white, gray
 - Use FontAwesome
 
-## 12. Font Awesome Icons
+## 11. Font Awesome Icons
 Create a page with `<nav>` and `<p>`.
 
 ### CSS Requirements
 - FontAwesome icons
 - Style for `<nav>`, `<li>`, `<a>`, and buttons
 
-## 13. Icon Font Buttons
+## 12. Icon Font Buttons
 Create a page with `<a>` tags using FontAwesome classes.
 
 ### CSS Requirements
