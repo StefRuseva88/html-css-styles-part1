@@ -1,5 +1,6 @@
 # Exercise: HTML and CSS
-
+### This is a test project for Front-End Technologies May 2024 Course @ SoftUni
+---
 ## Table of Contents
 1. [Welcome to HTML](#1-welcome-to-html)
 2. [Fruits](#2-fruits)
