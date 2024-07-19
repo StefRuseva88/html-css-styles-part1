@@ -15,3 +15,6 @@
 11. [Buttons CSS](#11-buttons-css)
 12. [Font Awesome Icons](#12-font-awesome-icons)
 13. [Icon Font Buttons](#13-icon-font-buttons)
+14. [Contributing](#Contributing)
+15. [License](#License)
+16. [Contact](#Contact)
