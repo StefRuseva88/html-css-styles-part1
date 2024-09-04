@@ -16,7 +16,7 @@
 8. [List Styling](#8-list-styling)
 9. [Table Styling](#9-table-styling)
 10. [Button Styling](#10-button-styling)
-11. [Font Awesome Integration](#11-font-awesome-ntegration)
+11. [Font Awesome Integration](#11-font-awesome-integration)
 12. [Icon Font Buttons](#12-icon-font-buttons)
 13. [Contributing](#Contributing)
 14. [License](#License)
