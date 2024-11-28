@@ -17,9 +17,8 @@
 10. [Button Styling](#10-button-styling)
 11. [Font Awesome Integration](#11-font-awesome-integration)
 12. [Icon Font Buttons](#12-icon-font-buttons)
-13. [Contributing](#Contributing)
-14. [License](#License)
-15. [Contact](#Contact)
+13. [License](#License)
+14. [Contact](#Contact)
 
 ## 1. Fruits
 A simple webpage with a clean and organized layout. The page features a large heading at the top, followed by three neatly spaced paragraphs. Each paragraph contains five images of different fruits, arranged in a grid-like format.
@@ -59,9 +58,6 @@ A page that incorporates FontAwesome icons into a navigation menu and various ot
 
 ## 12. Icon Font Buttons
 A page featuring buttons styled with FontAwesome icons. The buttons have bold background colors and change appearance when hovered over. The use of icons adds visual interest and functionality, making the buttons both attractive and easy to use.
-  
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
